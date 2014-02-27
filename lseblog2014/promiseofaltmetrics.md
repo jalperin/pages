@@ -36,6 +36,10 @@ This promise, however, is not by any means guaranteed. To realize the promise, t
 
 There is also a risk of altmetrics becoming yet another method for ranking scholars. If this happens, then it will once again turn attention of developing world scholars to the audiences in the United States and Europe—for this is where social media has most deeply penetrated. At the [ALM workshop](http://lanyrd.com/2013/alm13/) in October 2013, I presented a [series of maps](https://speakerdeck.com/jalperin/altmetrics-propagating-global-inequality) showing the varying levels of penetration of Internet, Twitter, Facebook, and Mendeley (common altmetric sources), and a new map from the Oxford Internet Institute shows the [uneven geography of Wikipedia](http://geography.oii.ox.ac.uk/#the-geographically-uneven-coverage-of-wikipedia). If the name of the game becomes increasing altmetric scores, it will still be a better strategy to cater to scholars in places where the sources of altmetrics are more heavily used (read: not in the developing world).
 
+<p>
+	<img src="wikipedia_uneven_geography.png" width="800px"/><br />
+	Read more <a href="http://geography.oii.ox.ac.uk/#the-geographically-uneven-coverage-of-wikipedia">here</a>
+</p>
 
 ## The prognosis
 
