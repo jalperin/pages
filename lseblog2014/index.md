@@ -48,9 +48,17 @@ The current focus on assessment (and to a lesser degree filtering and discovery)
 
 It is early days and these are only early ideas. Further research on altmetrics, especially in contexts beyond well-known and well-established journals (i.e., Science and Nature), and outside of the in so-called global North (i.e., the United States or Western Europe) is desperately needed. However, this alone is not enough. The field and the tools of altmetrics must be crafted with the participation of a diverse group scholars, so that their development can be inclusive of multiple perspectives and needs. 
 
-In this direction, the [Public Knowledge Project](http://pkp.sfu.ca) (where I am a researcher) is now working with [PLOS' ALM application](https://github.com/articlemetrics/alm/wiki) to provide altmetrics to journals using the [OJS](http://pkp.sfu.ca/ojs) platform (primarily in developing regions, see our [OJS Map](http://pkp.sfu.ca/ojs/ojs-usage/ojs-map/)). The idea is to bring altmetrics to developing regions _now_, not after scholars elsewhere have established the methods and norms of how altmetrics will be used. 
+In this direction, the [Public Knowledge Project](http://pkp.sfu.ca) (where I am a researcher) is now working with [PLOS' ALM application](https://github.com/articlemetrics/alm/wiki) to provide a free altmetrics service to journals using the [OJS](http://pkp.sfu.ca/ojs) platform (primarily in developing regions, see our [OJS Map](http://pkp.sfu.ca/ojs/ojs-usage/ojs-map/)), and working to explore available [indicators of Open Access](
+http://dx.doi.org/10.6084/m9.figshare.745395) in developing regions (project report forthcoming). The idea is to bring altmetrics to developing regions _now_, not after scholars elsewhere have established the methods and norms of how altmetrics will be used. 
 
 As the field begins starting to consolidate, I remain optimistically **pro**-altmetrics for developing regions, and I have faith in the altmetrics community to serve _all_ scholars. Which directions altmetrics should go, how they should be used, or how the tools should be implemented is not for me to prescribe, but if we exclude (or do not seek to include) scholars from developing regions, altmetrics will become another measure from the North, for the North. And we already know that story. 
+
+-------------
+
+**Juan Pablo Alperin** is a PhD Candidate in the Stanford School of Education as well as a researcher and systems developer with the [Public Knowledge Project](http://pkp.sfu.ca). He is currently involved in several [research initiatives](http://flacso.org.br/oa/category/proyectos/?lang=en) aimed at improving the quality, impact, and reach of scholarly publishing in Latin American, and continues to contribute to the award-winning software, Open Journal Systems (although admittedly less often). He can be be found at [juan@alperin.ca](mailto:juan@alperin.ca) an on Twitter at [@juancommander](https://twitter.com/juancommander/).
+
+
+-------------
 
 
 ### Footnotes
